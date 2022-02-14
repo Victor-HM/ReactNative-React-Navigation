@@ -6,7 +6,6 @@ export default function App() {
   return (
     <NavigationContainer>
       <Routes />
-      <Text style={styles.text}>oi</Text>
     </NavigationContainer>
   );
 }
